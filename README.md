@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on React Projects
 - 📫 How to reach me imamzaria07@gmail.com 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... Develops even in my dreams 
+- ⚡ Fun fact: ... Dream in Codes 😄😄😄
+- https://buymeacoffee.com/aliyuimam
 
 <!---
 aliyuimam/aliyuimam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
