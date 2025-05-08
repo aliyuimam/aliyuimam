@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aliyuimam
-- 👀 I’m interested in HTML, CSS, JAVASCRIPT, TAILWIND CSS, PHP and React Js
+- 👀 I’m interested in HTML, CSS, JAVASCRIPT, TAILWIND CSS, PHP and React JS, Next JS, Node JS, Express JS & Nest Js
 - 🌱 I’m currently learning ExpressJs
 - 💞️ I’m looking to collaborate on React Projects
 - 📫 How to reach me imamzaria07@gmail.com 
